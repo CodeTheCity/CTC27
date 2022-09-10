@@ -15,7 +15,7 @@ This is the fifth hack weekend that volunteers have worked on this project which
 
 Collating and building computing science resource for teachers and learners
 
-- Project Repo
+- [Project Repo](https://github.com/CompSciScotland)
 
 
 ## Quizzical 
