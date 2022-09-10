@@ -1,7 +1,7 @@
 # CTC27
 Education hack weekend 10-11 Sept 2022
 
-Over the weekend we had 21 people come together to work on four projects from the [seven that had been suggested]()https://docs.google.com/document/d/1RIDa8fwadkfzrweHgobmgSLUO_fswNOmlXTMYlH64NY/edit# prior to the event. 
+Over the weekend we had 21 people come together to work on four projects from the [seven that had been suggested](https://docs.google.com/document/d/1RIDa8fwadkfzrweHgobmgSLUO_fswNOmlXTMYlH64NY/edit#) prior to the event. 
 
 The four projects were 
 
