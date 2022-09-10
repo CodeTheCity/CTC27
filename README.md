@@ -28,4 +28,4 @@ Creating wikidata-powered quizzes with hardware and software
 
 Helping you locate code and data learning resources in Scotland - as open data and maps
 
- - Project Repo
+ - [Project Repo](https://github.com/CodeTheCity/CTC27_CodeMaps)
