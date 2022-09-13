@@ -36,3 +36,7 @@ Helping you locate code and data learning resources in Scotland - as open data a
 We've uploaded the final presenatation videos from each team at the end of the weekend to Youtube
 
 - [CTC27 Youtube playlist](https://youtube.com/playlist?list=PLJtlAfTHBTO16IZ4tg2zXpsvmGV1K-fVH)
+
+## Wikidata Item
+
+There is a wikidata item for this weekend which can be found at [https://www.wikidata.org/wiki/Q113883746](https://www.wikidata.org/wiki/Q113883746)
