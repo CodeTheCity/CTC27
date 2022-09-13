@@ -23,7 +23,9 @@ Collating and building computing science resource for teachers and learners
 
 Creating wikidata-powered quizzes with hardware and software
 
-- Project Repo
+(Although only the basic quiz machine hardware software minus wikidata-powered quizzed was implemented during the event.)
+
+- [Project Repo](https://github.com/CodeTheCity/quizzical)
 
 ### Code Maps
 
